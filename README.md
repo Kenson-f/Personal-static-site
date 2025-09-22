@@ -12,4 +12,5 @@ It represents the portfolio of a **Fresher Full-Stack Developer** applying for a
 - Hosted online using free third-party hosting  
 
 ---
-
+## Live hosting using Vercel:
+https://personal-static-site-henna.vercel.app
