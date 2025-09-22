@@ -13,7 +13,3 @@ It represents the portfolio of a **Fresher Full-Stack Developer** applying for a
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kenson-f/resume-website.git
