@@ -1,6 +1,6 @@
 # Resume Website - Fresher Full-Stack Developer
 
-This project is a simple **HTML + CSS** based personal static site including resume webpage create as part of an assignment.  
+This project is a simple **HTML + CSS** based personal static site including resume webpage created as part of an assignment.  
 It represents the portfolio of a **Fresher Full-Stack Developer** applying for an IT company role.
 
 ---
